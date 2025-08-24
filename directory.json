@@ -1,0 +1,47 @@
+[
+    {
+        "id": "bitcart-admin",
+        "name": "Bitcart Admin",
+        "description": "Official Bitcart administration interface for managing stores, invoices, and payments",
+        "url": "https://admin.bitcart.ai",
+        "github": "https://github.com/bitcart/bitcart-admin",
+        "category": "app"
+    },
+    {
+        "id": "bitcart-store",
+        "name": "Bitcart Store",
+        "description": "E-commerce storefront powered by Bitcart for accepting cryptocurrency payments",
+        "url": "https://store.bitcart.ai",
+        "github": "https://github.com/bitcart/bitcart-store",
+        "category": "app"
+    },
+    {
+        "id": "bitcart-configurator",
+        "name": "Bitcart Configurator",
+        "description": "Easy deployment tool for setting up Bitcart instances",
+        "url": "https://configurator.bitcart.ai",
+        "github": "https://github.com/bitcart/bitcart-admin",
+        "category": "app"
+    },
+    {
+        "id": "servers-guru",
+        "name": "Servers Guru",
+        "description": "Professional hosting services supporting Bitcart deployments",
+        "url": "https://servers.guru",
+        "category": "host"
+    },
+    {
+        "id": "hellordp",
+        "name": "HelloRDP",
+        "description": "Cloud hosting provider with Bitcart support",
+        "url": "https://hellordp.com",
+        "category": "host"
+    },
+    {
+        "id": "strike",
+        "name": "Strike",
+        "description": "Hosting provider supporting Bitcart payment",
+        "url": "https://strike.bz",
+        "category": "host"
+    }
+]
