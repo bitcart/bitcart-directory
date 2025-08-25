@@ -43,5 +43,12 @@
         "description": "Hosting provider supporting Bitcart payment",
         "url": "https://strike.bz",
         "category": "host"
+    },
+    {
+        "id": "skhron",
+        "name": "Skhron",
+        "description": "Accepts crypto using Bitcart, provides VPS capable of running Bitcart",
+        "url": "https://skhron.eu",
+        "category": "host"
     }
 ]
