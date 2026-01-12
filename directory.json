@@ -4,51 +4,61 @@
         "name": "Bitcart Admin",
         "description": "Official Bitcart administration interface for managing stores, invoices, and payments",
         "url": "https://admin.bitcart.ai",
-        "github": "https://github.com/bitcart/bitcart-admin",
-        "category": "app"
+        "category": "app",
+        "social_links": {
+            "github": "https://github.com/bitcart/bitcart-admin"
+        }
     },
     {
         "id": "bitcart-store",
         "name": "Bitcart Store",
         "description": "E-commerce storefront powered by Bitcart for accepting cryptocurrency payments",
         "url": "https://store.bitcart.ai",
-        "github": "https://github.com/bitcart/bitcart-store",
-        "category": "app"
+        "category": "app",
+        "social_links": {
+            "github": "https://github.com/bitcart/bitcart-store"
+        }
     },
     {
         "id": "bitcart-configurator",
         "name": "Bitcart Configurator",
         "description": "Easy deployment tool for setting up Bitcart instances",
         "url": "https://configurator.bitcart.ai",
-        "github": "https://github.com/bitcart/bitcart-admin",
-        "category": "app"
+        "category": "app",
+        "social_links": {
+            "github": "https://github.com/bitcart/bitcart-admin"
+        }
     },
     {
         "id": "servers-guru",
         "name": "Servers Guru",
         "description": "Professional hosting services supporting Bitcart deployments",
         "url": "https://servers.guru",
-        "category": "host"
+        "category": "host",
+        "social_links": {}
     },
     {
         "id": "hellordp",
         "name": "HelloRDP",
         "description": "Cloud hosting provider with Bitcart support",
         "url": "https://hellordp.com",
-        "category": "host"
+        "category": "host",
+        "social_links": {}
     },
     {
         "id": "strike",
         "name": "Strike",
         "description": "Hosting provider supporting Bitcart payment",
         "url": "https://strike.bz",
-        "category": "host"
+        "category": "host",
+        "social_links": {}
     },
     {
         "id": "skhron",
         "name": "Skhron",
         "description": "Accepts crypto using Bitcart, provides VPS capable of running Bitcart",
         "url": "https://skhron.eu",
-        "category": "host"
+        "category": "host",
+        "social_links": {}
     }
 ]
