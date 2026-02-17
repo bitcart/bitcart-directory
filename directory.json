@@ -7,7 +7,8 @@
         "category": "app",
         "social_links": {
             "github": "https://github.com/bitcart/bitcart-admin"
-        }
+        },
+        "is_official": true
     },
     {
         "id": "bitcart-store",
@@ -17,17 +18,19 @@
         "category": "app",
         "social_links": {
             "github": "https://github.com/bitcart/bitcart-store"
-        }
+        },
+        "is_official": true
     },
     {
         "id": "bitcart-configurator",
         "name": "Bitcart Configurator",
         "description": "Easy deployment tool for setting up Bitcart instances",
-        "url": "https://configurator.bitcart.ai",
+        "url": "https://launch.bitcart.ai",
         "category": "app",
         "social_links": {
             "github": "https://github.com/bitcart/bitcart-admin"
-        }
+        },
+        "is_official": true
     },
     {
         "id": "servers-guru",
@@ -35,7 +38,8 @@
         "description": "Professional hosting services supporting Bitcart deployments",
         "url": "https://servers.guru",
         "category": "host",
-        "social_links": {}
+        "social_links": {},
+        "is_sponsor": true
     },
     {
         "id": "hellordp",
@@ -43,7 +47,8 @@
         "description": "Cloud hosting provider with Bitcart support",
         "url": "https://hellordp.com",
         "category": "host",
-        "social_links": {}
+        "social_links": {},
+        "is_sponsor": true
     },
     {
         "id": "strike",
@@ -51,7 +56,8 @@
         "description": "Hosting provider supporting Bitcart payment",
         "url": "https://strike.bz",
         "category": "host",
-        "social_links": {}
+        "social_links": {},
+        "is_sponsor": true
     },
     {
         "id": "skhron",
@@ -59,6 +65,7 @@
         "description": "Accepts crypto using Bitcart, provides VPS capable of running Bitcart",
         "url": "https://skhron.eu",
         "category": "host",
-        "social_links": {}
+        "social_links": {},
+        "is_sponsor": true
     }
 ]
