@@ -67,5 +67,14 @@
         "category": "host",
         "social_links": {},
         "is_sponsor": true
+    },
+    {
+        "id": "darkvps",
+        "name": "DarkVPS",
+        "description": "Anonymous & Offshore VPS Hosting provider from Bulgaria - operate own Servers. Accepted payment - cryptocurrency",
+        "url": "https://darkvps.pro",
+        "category": "host",
+        "social_links": {},
+        "is_sponsor": false
     }
 ]
