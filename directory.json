@@ -69,6 +69,16 @@
         "is_sponsor": true
     },
     {
+        "id": "market4pro",
+        "name": "Market4Pro",
+        "description": "P2P in-game items marketplace",
+        "url": "https://market4.pro",
+        "category": "merchant",
+        "subcategory": "digital",
+        "social_links": {},
+        "is_sponsor": false
+    },
+    {
         "id": "darkvps",
         "name": "DarkVPS",
         "description": "Anonymous & Offshore VPS Hosting provider from Bulgaria - operate own Servers. Accepted payment - cryptocurrency",
